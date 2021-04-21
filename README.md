@@ -14,7 +14,7 @@
 - **[Travel Booking UI](https://github.com/hadikachmar3/Flutter_travel_booking_UI)**
 - **[Travel places UI](https://github.com/hadikachmar3/Travel_places_UI)**
 
-- **[Flutter budget tracker](https://github.com/hadikachmar3/Flutter_budget_tracker)**
+- **[Budget tracker](https://github.com/hadikachmar3/Flutter_budget_tracker)**
 - **[Camping](https://github.com/hadikachmar3/Flutter_camping)**
 - **[Covid19 UI](https://github.com/hadikachmar3/Flutter_covid19_UI)**
 - **[furniture app](https://github.com/hadikachmar3/flutter_furniture_app/tree/master)**
